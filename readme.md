@@ -4,13 +4,13 @@
 
 ## Dataset
 
-> I have done data analysis on NYC Citi Bike. I have gotten the data from citibikenyc.com. There are about 750 stations around New York City and New Jersey. The daily average ridership is 48,315. Most people use Citi bikes for commuting. 
-
+> Citi bike is a public bike-sharing system and it is now owned by Lyft. Lyft operates Citi bike around New York City, and Jersey City, NJ. Citi bike bicycle sharing system was opened in May 2013 with 332 stations and 6,000 bikes. Due to the high volume of growth rate, Citi bike is expanding around the five boroughs of NYC. As of July 2017, there are 130,000 annual subscribers. The average is 48,315 rides per day in 2018. Rides per day/week/month/year are still growing rapidly. 
+I have done this data analysis on NYC Citi Bike. I have gotten the data from citibikenyc.com. There are about 750 stations around New York City and New Jersey. The daily average ridership is 48,315. Most people use Citi bikes for commuting. 
+ [Due to staying home order for Covid-19 there might be a decrease in rides per day]
 
 ## Summary of Findings
 
-> There are 22,962 users who rented Citi bikes in February 2020. The highest trip was 1,495,458 secs and it was taken by the bike id of 42228. The average trip duration is 665 seconds. Top 3 start stations are Grove St PATH, Sip Ave, and Hamilton Park. Top 3 end stations are Grove St PATH, Sip Ave, and Harborside. Some data types should be cleaned. After fixing the data types, most males rent Citi bikes than females or unknown gender. Most of them born between 1975 and 1990. Most of them use bikes every day, they are males. There are more subscribers than regular customers who use Citi bike. The average trip takes 665 seconds which equals 11 minutes 09 seconds. 
-
+> There are 22,962 users who rented Citi bikes in February 2020. Top 3 start stations are Grove St PATH, Sip Ave, and Hamilton Park. Top 3 end stations are Grove St PATH, Sip Ave, and Harborside. Some data types have been cleaned. Most males rent Citi bikes than females or unknown gender. Most of them born between 1975 and 1990. There are more subscribers than regular customers who use Citi bike. The average trip takes 600 seconds which equals 10 minutes. The highest number of customers takes bikes from 12 to 8 pm while subscribers (annual) take bikes from 7 pm to 9 pm. Those riders who are between 35 and 50 years old, take bikes for a long period of time. Most males and females take Citi bikes on Wednesday while unknown gender takes bikes on Saturday or Sunday.
 ## Key Insights for Presentation
 
-> The most frequent start station or end station is Grove St PATH. Most people who use bikes for commuting are males. The longest ride is 1495458 seconds which equals 17 days. The average trip is 665 seconds which equals 11 minutes 09 seconds. 
+> The most frequent start station or end station is Grove St PATH. Most people who use bikes for commuting are males. There are more annunal subscribers than regular customers who get Citi bikes. The average trip is 600 seconds which equals 10.
