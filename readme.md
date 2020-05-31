@@ -6,7 +6,7 @@
 
 > Citi bike is a public bike-sharing system and it is now owned by Lyft. Lyft operates Citi bike around New York City, and Jersey City, NJ. Citi bike bicycle sharing system was opened in May 2013 with 332 stations and 6,000 bikes. Due to the high volume of growth rate, Citi bike is expanding around the five boroughs of NYC. As of July 2017, there are 130,000 annual subscribers. The average is 48,315 rides per day in 2018. Rides per day/week/month/year are still growing rapidly. 
 I have done this data analysis on NYC Citi Bike. I have gotten the data from citibikenyc.com. There are about 750 stations around New York City and New Jersey. The daily average ridership is 48,315. Most people use Citi bikes for commuting. 
- > [Due to staying home order for Covid-19 there might be a decrease in rides per day]
+> [Due to staying home order for Covid-19 there might be a decrease in rides per day]
 
 ## Summary of Findings
 
