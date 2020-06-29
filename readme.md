@@ -1,5 +1,5 @@
-# Citi Bike Data Findings
-## by (Shakhawat Hassan)
+# Citi Bike Communicate Data Findings
+## by Shakhawat Hassan
 
 
 ## Dataset
