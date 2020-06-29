@@ -1,4 +1,4 @@
-# (Citi Bike Data Findings)
+# Citi Bike Data Findings
 ## by (Shakhawat Hassan)
 
 
@@ -11,6 +11,7 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from cit
 ## Summary of Findings
 
 > There are 22,962 users who rented Citi bikes in February 2020. Top 3 start stations are Grove St PATH, Sip Ave, and Hamilton Park. Top 3 end stations are Grove St PATH, Sip Ave, and Harborside. Some data types have been cleaned. Most males rent Citi bikes than females or unknown gender. Most of them born between 1975 and 1990. There are more subscribers than regular customers who use Citi bike. The average trip takes 600 seconds which equals 10 minutes. The highest number of customers takes bikes from 12 to 8 pm while subscribers (annual) take bikes from 7 pm to 9 pm. Those riders who are between 35 and 50 years old, take bikes for a long period of time. Most males and females take Citi bikes on Wednesday while unknown gender takes bikes on Saturday or Sunday.
+
 ## Key Insights for Presentation
 
 > The most popular start station or end station is Grove St PATH. Most people who use bikes for commuting are males. There are more annunal subscribers than regular customers who get Citi bikes. The average trip is 600 seconds which equals 10.
