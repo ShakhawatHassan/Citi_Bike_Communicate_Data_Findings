@@ -15,3 +15,5 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from cit
 ## Key Insights for Presentation
 
 > The most popular start station or end station is Grove St PATH. Most people who use bikes for commuting are males. There are more annunal subscribers than regular customers who get Citi bikes. The average trip is 600 seconds which equals 10.
+
+## 
