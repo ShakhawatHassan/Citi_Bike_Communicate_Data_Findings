@@ -5,7 +5,7 @@
 ## Dataset
 
 > Citi bike is a public bike-sharing system and it is now owned by Lyft. Lyft operates Citi bike around New York City, and Jersey City, NJ. Citi bike bicycle sharing system was opened in May 2013 with 332 stations and 6,000 bikes. Due to the high volume of growth rate, Citi bike is expanding around the five boroughs of NYC. As of July 2017, there are 130,000 annual subscribers. The average is 48,315 rides per day in 2018. Rides per day/week/month/year are still growing rapidly. 
-I have done this data analysis on NYC Citi Bike. I have gotten the data from citibikenyc.com. There are about 750 stations around New York City and New Jersey. The daily average ridership is 48,315. Most people use Citi bikes for commuting. 
+I have done this data analysis on NYC Citi Bike. I have gotten the data from *citibikenyc.com.* The dataset I used was from Feb 2020. There are about 750 stations around New York City and New Jersey. The daily average ridership is 48,315. Most people use Citi bikes for commuting. 
 
 
 ## Summary of Findings
@@ -17,10 +17,9 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from cit
 > The most popular start station or end station is Grove St PATH. Most people who use bikes for commuting are males. There are more annual subscribers than regular customers who get Citi bikes. The average trip is 600 seconds which equals 10.
 
 ## Tools Used for this Project
->
   - Packages: Anaconda, Conda
   - Libraries: Pandas, NumPy, Matplotlb, Seaborn
   - Web Application: Jupyter Notebook
-  - gramming Language: Python 3
+  - Programming Language: Python 3
 
 *[Due to stay-at-home order for Covid-19, there might be a decrease in rides per day from March 2020 - May 2020]* 
