@@ -2,6 +2,10 @@
 ## by Shakhawat Hassan
 
 
+![Image of CIti Bike](https://images.ctfassets.net/q8mvene1wzq4/BXoAqYDviYCHriSNNOmYW/48ace03038ca107bbd0060e845db320c/1_citybike_static-sm.jpg?w=1500)
+
+
+
 ## Dataset
 
 > Citi bike is a public bike-sharing system and it is now owned by Lyft. Lyft operates Citi bike around New York City, and Jersey City, NJ. Citi bike bicycle sharing system was opened in May 2013 with 332 stations and 6,000 bikes. Due to the high volume of growth rate, Citi bike is expanding around the five boroughs of NYC. As of July 2017, there are 130,000 annual subscribers. The average is 48,315 rides per day in 2018. Rides per day/week/month/year are still growing rapidly. 
