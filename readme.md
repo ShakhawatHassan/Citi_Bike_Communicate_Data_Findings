@@ -2,7 +2,7 @@
 ## by Shakhawat Hassan
 
 
-![Image of CIti Bike](https://images.ctfassets.net/q8mvene1wzq4/BXoAqYDviYCHriSNNOmYW/48ace03038ca107bbd0060e845db320c/1_citybike_static-sm.jpg?w=1500)
+![Image of CIti Bike](https://i.cbc.ca/1.5098221.1555337759!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/lyft-bike-share.jpg)
 
 
 
