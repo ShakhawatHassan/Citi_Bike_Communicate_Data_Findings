@@ -17,9 +17,9 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from cit
 > The most popular start station or end station is Grove St PATH. Most people who use bikes for commuting are males. There are more annual subscribers than regular customers who get Citi bikes. The average trip is 600 seconds which equals 10.
 
 ## Tools Used for this Project
-> Packages: Anaconda, Conda
-> Libraries: Pandas, NumPy, Matplotlb, Seaborn
+>> Packages: Anaconda, Conda
+>> Libraries: Pandas, NumPy, Matplotlb, Seaborn
 > Web Application: Jupyter Notebook
 > Programming Language: Python 3
 
-# [Due to stay-at-home order for Covid-19, there might be a decrease in rides per day from March 2020 - May 2020]
+*[Due to stay-at-home order for Covid-19, there might be a decrease in rides per day from March 2020 - May 2020]* 
