@@ -2,7 +2,7 @@
 ## by Shakhawat Hassan
 
 
-![Image of CIti Bike](https://i.cbc.ca/1.5098221.1555337759!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/lyft-bike-share.jpg)
+![Image of CIti Bike](https://images.ctfassets.net/q8mvene1wzq4/dLydBp0euaBHH03aEvgx4/9122c67bd9b0191d1c4c83424cf3eee2/EasyRider-Side_01-email_0000000000.png?w=1500)
 
 
 
@@ -27,3 +27,12 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from *ci
   - Programming Language: Python 3
 
 *[Due to stay-at-home order for Covid-19, there might be a decrease in rides per day from March 2020 - May 2020]* 
+
+
+
+
+### Sources
+
+Dataset: citibikenyc.com
+
+Image: lyft.com/bikes/new-york-city-ny/meet-our-bikes
