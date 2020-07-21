@@ -33,6 +33,6 @@ I have done this data analysis on NYC Citi Bike. I have gotten the data from *ci
 
 ### Sources
 
-Dataset: citibikenyc.com
+Datasets: citibikenyc.com
 
 Image: lyft.com/bikes/new-york-city-ny/meet-our-bikes
